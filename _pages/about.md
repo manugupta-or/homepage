@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
- <p>I am an assistant professor in <a href = "https://doms.iitr.ac.in/" target="_blank">Management Studies</a>  at <a href = "https://www.iitr.ac.in/" target="_blank">IIT Roorkee</a>. I am also a joint faculty in <a href = "https://www.iitr.ac.in/mfsdsai/" target="_blank">MFS of Artificial Intelligence and Data Sciences</a>  at IIT Roorkee. </p>
+ <p>I am an assistant professor in <a href = "https://doms.iitr.ac.in/" target="_blank">Management Studies</a>  at <a href = "https://www.iitr.ac.in/" target="_blank">IIT Roorkee</a>. I am also a joint faculty in <a href = "https://www.iitr.ac.in/mfsdsai/" target="_blank">MFS of Data Sciences and Artificial Intelligence</a>  at IIT Roorkee. </p>
 
 <p>My research interests are broadly in decision making under uncertainty. In the past, I have worked on areas such as machine learning, optimization, game theory and queuing systems. </p>
 
