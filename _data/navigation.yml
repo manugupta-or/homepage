@@ -1,0 +1,27 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Talks"
+    url: /talks/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Team"
+    url: /portfolio/
+
+
+  - title: "Bio"
+    url: /cv/
+
+  - title: "Projects/Misc."
+    url: /year-archive/
+
+
+  - title: "Diversions"
+    url: /diversions/
+
+ # - title: "Deviation"
+ #  url: /markdown/
